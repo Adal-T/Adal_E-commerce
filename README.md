@@ -20,7 +20,7 @@ The Primary usage of this app is to be able to create a database that can store 
 
 ## Credits
 
-Assistance form Tabnine
+Assistance from Tabnine
 
 ## License
 
